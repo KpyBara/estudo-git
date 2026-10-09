@@ -1,0 +1,12 @@
+Comandos terminal
+
+ls /// lista todos os documentos na pasta atual
+
+Comandos Git
+
+git status /// visualisa o status atual dos arquivos
+git config --global user.name "nome" /// Configura o nome de quem tá modificando
+git config --global user.email "seu@gmail.com" /// Configura o email de quem tá modificando
+git config --global init.defaultBranch main ///
+git diff /// Vê exatamento o que mudou
+git add {arquivo modificado} /// prepara pro commit / adiciona o arquivo na Staging area
