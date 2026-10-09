@@ -10,5 +10,4 @@ git config --global user.email "seu@gmail.com" /// Configura o email de quem tá
 git config --global init.defaultBranch main ///
 git diff /// Vê exatamento o que mudou
 git add {arquivo modificado} /// prepara pro commit / adiciona o arquivo na Staging area
-
-salve salve
+git log
